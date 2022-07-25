@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/titaniumnetwork-dev/discord-widget.git"
+    "url": "https://github.com/Titanium-Network/discord-widget.git"
   },
   "main": "app.js",
   "scripts": {
